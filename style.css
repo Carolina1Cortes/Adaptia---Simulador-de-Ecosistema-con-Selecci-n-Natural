@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
 
 :root{
-    --color-primario: black;
-    --color-secundario: #f6f6f6;
-    --color-terciario: #1abd1a;
-    --color-hover: #272727;
-
     --fuente-texturina: 'Texturina', sans-serif;
 }
 
@@ -31,7 +26,7 @@ button {
   background-color: #238636;
   color: white;
   text-align: center;
-  border: 2px solid var(--color-terciario);
+  border: 2px solid #1abd1a;
   padding: 5px 15px;
   border-radius: 8px;
   font-family: var(--fuente-texturina);
